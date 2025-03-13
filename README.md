@@ -158,6 +158,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📧 Contact
 If you have any questions, feel free to reach out:
-- **Name**: Fahad Zafar
-- **Email**: [fahadzafarmayo123@gmail.com](mailto:fahadzafarmayo123@gmail.com)
+- **Name**: Muhammad Haris
+- **Email**: [haris54955@gmail.com](mailto:haris54955@gmail.com)
 ```
